@@ -43,8 +43,3 @@
   ![Snake animation](https://github.com/Raul-Germano-Rosendo/Raul-Germano-Rosendo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-<!---
-Ivan-Duarte/Ivan-Duarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
