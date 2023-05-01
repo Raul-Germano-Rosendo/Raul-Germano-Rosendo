@@ -39,9 +39,7 @@
  
 <div align="center"> 
   <h3>🐍</h3>
-  
-  
-  ![Snake animation](https://github.com/Raul-Germano-Rosendo/Raul-Germano-Rosendo/blob/output/github-contribution-grid-snake.svg)
+   
+  ![Snake animation](https://github.com/Raul-Germano-Rosendo/Raul-Germano-Rosendo/blob/output/github-contribution-grind-snake.svg)
  
-  
 </div>
