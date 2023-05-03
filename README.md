@@ -35,8 +35,8 @@
   <a href = "mailto:raulgermanoduarte@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/Raul_Germano_rod/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
- 
- ##
+
+##
  
 <div align="center"> 
   <h3>🐍</h3>
@@ -44,3 +44,6 @@
   ![Snake animation](https://github.com/Raul-Germano-Rosendo/Raul-Germano-Rosendo/blob/output/github-contribution-grind-snake.svg)
  
 </div>
+
+  
+##
