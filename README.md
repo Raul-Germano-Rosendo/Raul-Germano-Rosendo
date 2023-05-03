@@ -1,5 +1,7 @@
 ## Olá Mundo! Sou Raul Germano
 
+[![HitCount](http://hits.dwyl.com/<Raul-Germano-Rosendo>/<Raul-Germano-Rosendo>.svg)](http://hits.dwyl.com/<Raul-Germano-Rosendo>/<Raul-Germano-Rosendo>)
+
 <div align="right">
   
   <img src="https://img.shields.io/github/forks/Raul-Germano-Rosendo/Raul-Germano-Rosendo.svg"/>
