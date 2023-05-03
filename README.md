@@ -48,5 +48,6 @@
   
 ##
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=<Raul-Germano-Rosendo>.<Raul-Germano-Rosendo>)
+
 [![HitCount](http://hits.dwyl.com/<Raul-Germano-Rosendo>/<Raul-Germano-Rosendo>.svg)](http://hits.dwyl.com/<Raul-Germano-Rosendo>/<Raul-Germano-Rosendo>)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=<Raul-Germano-Rosendo>.<Raul-Germano-Rosendo>)
