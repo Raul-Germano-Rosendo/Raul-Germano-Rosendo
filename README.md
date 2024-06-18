@@ -9,7 +9,7 @@
 
 - 👀 Gosto de Jogos Digitais, História, Programação, Música e Esportes .
 - 🌱 Atualmente estou aprendendo Python, Java, PHP, SQL, C & Arduino .
-- 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em grandes projetos .
+- 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em projetos .
 - 💻 Focado em Passar em ADS .
 
 
