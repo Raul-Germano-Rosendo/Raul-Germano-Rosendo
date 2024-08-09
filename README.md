@@ -10,7 +10,7 @@
 - 👀 Gosto de Jogos Digitais, História, Programação, Música e Esportes .
 - 🌱 Atualmente estou aprendendo Python, Java, PHP, SQL, C & Arduino .
 - 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em projetos .
-- 💻 Aluno da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS)
+- 💻 Aluno da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS )
 
 
 <div align="center">
