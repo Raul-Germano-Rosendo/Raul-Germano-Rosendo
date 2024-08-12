@@ -12,6 +12,9 @@
 - 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em projetos .
 - 💻 Aluno da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS )
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/438523832920440843?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/438523832920440843)
+
 #
 <div align="center" >
   <picture>
@@ -26,17 +29,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
 </picture>
 </div>
+
 #
   
   
-<div align="center"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<h2 align="center" >Coding With...</h2>
+
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=java,py,bootstrap,html,css,firebase,vscode,github,git,dart,php,flutter&perline=4" />
 </div>
   
   
-##
+#
   
   
 - 📫 Principais Contatos 
