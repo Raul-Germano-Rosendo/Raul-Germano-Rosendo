@@ -13,12 +13,7 @@
 - 💻 Aluno da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS )
 
 
-<div align="center">
-  <a href="https://github.com/Raul-Germano-Rosendo">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Raul-Germano-Rosendo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&title_color=ffffff&bg_color=DEG,4b0082,430174,430074,350055,000000&text_color=ffffff&icon_color=f0f0f0&border_color=e89715&border_radius=10&ring_color=ffffff"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Germano-Rosendo&theme=dark&layout=compact&langs_count=16&locale=pt-br&title_color=ffffff&bg_color=DEG,4b0082,430174,430074,350055,000000&border_color=f0f0f0&border_radius=7&text_color=ffffff"/>
-  </a>
-</div>
+#
   
   
 <div align="center"><br>
