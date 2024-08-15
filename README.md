@@ -8,9 +8,9 @@
 </div>
 
 - 👀 Gosto de Jogos Digitais, História, Programação, Música e Esportes .
-- 🌱 Atualmente estou aprendendo Python, Java, PHP, SQL, C & Arduino .
+- 🧟 Atualmente estou aprendendo Python com o Professor Masanori .
 - 💞️ Procuro expandir meus conhecimentos em TI para trabalhar em projetos .
-- 💻 Aluno da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS )
+- 💻 Aluno da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ).
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/438523832920440843?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/438523832920440843)
