@@ -36,7 +36,7 @@
 ### 📁 Projetos em Destaque
 
 - [Sistema de Gestão de Cursos e Alunos (Crud[Java + MySQL + JavaFX]). P2](https://github.com/Raul-Germano-Rosendo/FATEC-SJC-ADS/tree/main/SEGUNDO%20SEMESTRE/LP/GestaoCursos)
-- [Java Entrega 5](https://github.com/Raul-Germano-Rosendo)
+- [Java Entrega 5](https://github.com/Raul-Germano-Rosendo/FATEC-SJC-ADS/tree/main/SEGUNDO%20SEMESTRE/LP/CRUD-Clientes-Maven)
 
 *️⃣ *+WIP projects. Sempre atualizando...*
 
