@@ -15,11 +15,12 @@
 
 ### 🚀 Sobre mim
 
-- 🧠 Estudando **Python** com o Prof. Masanori.
+- 🧩 Estudando **Python** com o Prof. Masanori.
 - 🧩 Estudando **Java** com a Prof. Juliana.
+- 🧩 Estudando **Javascript** | **Node.js** | **Typescript** com o Prof. Gerson.
 - 💡 Buscando oportunidades para aplicar meus conhecimentos em **projetos reais**.
 - 📚 Curioso, resiliente e sempre disposto a aprender algo novo.
-- 💼 Última experiência: atuação no setor de tecnologia da empresa Divino Amor, com foco na manutenção e manipulação do banco de dados da organização.
+- 💼 Última experiência: atuação no setor de tecnologia da empresa Divino Amor, com foco na manutenção de franquias via ERP's e manipulação do banco de dados da organização.
 
 
 
@@ -28,7 +29,7 @@
 ### 🛠️ Skills & Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,flutter,dart,html,css,bootstrap,php,firebase,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,py,flutter,javascript,nodejs,typescript,aws,dart,html,css,bootstrap,php,firebase,git,github,vscode&perline=6" />
 </div>
 
 ---
