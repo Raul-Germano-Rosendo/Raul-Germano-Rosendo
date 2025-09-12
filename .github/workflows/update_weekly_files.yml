@@ -3,7 +3,7 @@ name: Atualizar Badge de Commits Semanais
 on:
   schedule:
     - cron: '0 0 * * 1' # toda segunda-feira à meia-noite
-  workflow_dispatch: # permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   update-weekly-badge:
@@ -40,7 +40,7 @@ days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 counts = [int(os.environ.get(day, "0")) for day in days]
 
 # Criar representação visual simples: "▇" por commit
-visual = " ".join(["▇"*count if count>0 else "-" for count in counts])
+visual = " ".join(["▇"*count if count > 0 else "-" for count in counts])
 
 badge = pybadges.badge(
     label="Commits da semana",
