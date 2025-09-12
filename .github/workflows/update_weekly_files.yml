@@ -1,3 +1,6 @@
+import os
+import pybadges
+
 name: Atualizar Badge de Commits Semanais
 
 on:
@@ -34,8 +37,6 @@ jobs:
       - name: Gerar badge SVG com commits diários
         run: |
           python3 << 'EOF'
-import os
-import pybadges
 
 days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 counts = [int(os.environ.get(day, '0')) for day in days]
