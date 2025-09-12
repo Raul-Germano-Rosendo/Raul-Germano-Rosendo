@@ -1,29 +1,34 @@
-
 name: Atualizar Badge de Commits Semanais
 
+# Quando o workflow será executado
 on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: # permite rodar manualmente
   schedule:
     - cron: '0 0 * * 1' # toda segunda-feira à meia-noite
-  workflow_dispatch: # permite rodar manualmente
 
 jobs:
-  update-weekly-badge:
+  update-badge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checar repositório
-        uses: actions/checkout@v3
+      # Checar repositório
+      - name: Checkout
+        uses: actions/checkout@v4
 
+      # Configurar Python
       - name: Configurar Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Instalar dependências
+      # Instalar dependências
+      - name: Instalar pybadges
         run: pip install pybadges
 
-      - name: Contar commits diários da semana
-        id: count_commits
+      # Contar commits diários da semana
+      - name: Contar commits
         run: |
           echo "Calculando commits..."
           DAYS=("Mon" "Tue" "Wed" "Thu" "Fri" "Sat" "Sun")
@@ -31,7 +36,8 @@ jobs:
             COUNT=$(git log --since="last monday" --date=format:'%a' --pretty=format:'%ad' | grep -c "$DAY")
             echo "$DAY=$COUNT" >> $GITHUB_ENV
 
-      - name: Gerar badge SVG com commits diários
+      # Gerar badge SVG
+      - name: Gerar badge SVG
         run: |
           python3 - <<'EOF'
 import os
@@ -40,7 +46,7 @@ import pybadges
 days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 counts = [int(os.environ.get(day, "0")) for day in days]
 
-# Criar representação visual simples: "▇" por commit
+# Criar visual simples: "▇" por commit, "-" se nenhum
 visual = " ".join(["▇"*count if count > 0 else "-" for count in counts])
 
 badge = pybadges.badge(
@@ -53,7 +59,8 @@ with open("badge_commits_week.svg", "w") as f:
     f.write(badge)
 EOF
 
-      - name: Commit e push do badge
+      # Commit e push do badge
+      - name: Commit e push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
