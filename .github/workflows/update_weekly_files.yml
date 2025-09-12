@@ -33,7 +33,7 @@ jobs:
 
       - name: Gerar badge SVG com commits diários
         run: |
-          python3 -c "
+          python3 << 'EOF'
 import os
 import pybadges
 
@@ -51,7 +51,7 @@ badge = pybadges.badge(
 
 with open('badge_commits_week.svg', 'w') as f:
     f.write(badge)
-"
+EOF
 
       - name: Commit e push do badge
         run: |
