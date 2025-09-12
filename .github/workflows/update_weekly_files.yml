@@ -31,7 +31,7 @@ jobs:
             echo "$DAY=$COUNT" >> $GITHUB_ENV
           done
 
-      - name: Criar script Python
+      - name: Criar script Python para gerar badge
         run: |
           cat > generate_badge.py << 'PYTHON_EOF'
 import os
@@ -51,10 +51,14 @@ badge = pybadges.badge(
 
 with open('badge_commits_week.svg', 'w') as f:
     f.write(badge)
+print("Badge gerado com sucesso!")
 PYTHON_EOF
 
-      - name: Executar script Python
+      - name: Executar script para gerar badge
         run: python3 generate_badge.py
+
+      - name: Limpar script temporário
+        run: rm -f generate_badge.py
 
       - name: Commit e push do badge
         run: |
