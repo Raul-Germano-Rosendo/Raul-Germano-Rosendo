@@ -29,11 +29,10 @@ jobs:
           for DAY in "${DAYS[@]}"; do
             COUNT=$(git log --since="last monday" --date=format:'%a' --pretty=format:'%ad' | grep -c "$DAY")
             echo "$DAY=$COUNT" >> $GITHUB_ENV
-          done
 
       - name: Gerar badge SVG com commits diários
         run: |
-          python - <<PYTHON
+          python3 - <<'EOF'
 import os
 import pybadges
 
@@ -51,7 +50,7 @@ badge = pybadges.badge(
 
 with open("badge_commits_week.svg", "w") as f:
     f.write(badge)
-PYTHON
+EOF
 
       - name: Commit e push do badge
         run: |
