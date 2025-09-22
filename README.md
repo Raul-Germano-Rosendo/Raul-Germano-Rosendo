@@ -22,10 +22,10 @@
 
 ---
 
-### 🛠️ Skills & Tecnologias
+### 🛠️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,javascript,typescript,nodejs,flutter,dart,html,css,bootstrap,php,mysql,firebase,aws,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,py,javascript,typescript,nodejs,redis,sqlite,flutter,dart,html,css,bootstrap,php,mysql,firebase,aws,git,github,vscode&perline=8" />
 </div>
 
 ---
