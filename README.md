@@ -1,8 +1,7 @@
-<h1 align="center">👋 Olá, mundo! Eu sou Raul Germano</h1>
+<h1 align="center">Olá, mundo! Eu sou Raul Germano</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FATEC - São José dos Campos</strong> (3º semestre).<br/>
-  🚀 Apaixonado por tecnologia, programação e aprendizado contínuo.
 </p>
 
 <div align="center">
@@ -48,6 +47,7 @@
 
 ### 📁 Projetos em Destaque
 
+- ☁️ [Aplicativo de Clima (JavaScript + OpenWeather API)](https://github.com/Raul-Germano-Rosendo/Projects/tree/main/Weather%20APP)
 - 🎓 [Sistema de Gestão de Cursos e Alunos (Java + MySQL + JavaFX) — P2](https://github.com/Raul-Germano-Rosendo/FATEC-SJC-ADS/tree/main/SEGUNDO%20SEMESTRE/LP/GestaoCursos)  
 - 📂 [CRUD Clientes em Java (Maven)](https://github.com/Raul-Germano-Rosendo/FATEC-SJC-ADS/tree/main/SEGUNDO%20SEMESTRE/LP/CRUD-Clientes-Maven)  
 
