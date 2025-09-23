@@ -69,6 +69,21 @@
 
 ---
 
+<div align="center">
+
+<a href="https://info.flagcounter.com/InhE">
+  <img src="https://s01.flagcounter.com/countxl/InhE/bg_000000/txt_F0EDFF/border_9564CC/columns_8/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" 
+       alt="Flag Counter" border="0">
+</a>
+<br>
+<a href="https://info.flagcounter.com/xCr9">
+  <img src="https://s01.flagcounter.com/map/xCr9/size_l/txt_000000/border_9564CC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>
+
+</div>
+
+---
+
+
 ### 📫 Onde me encontrar
 
 <div align="center">
