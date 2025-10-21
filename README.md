@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! Eu sou Raul Germano</h1>
+<h1 align="center">Olá, mundo!</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FATEC - São José dos Campos</strong> (3º semestre).<br/>
