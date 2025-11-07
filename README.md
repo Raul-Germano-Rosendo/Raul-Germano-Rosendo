@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![Raul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raul-Germano-Rosendo&show_icons=true&theme=radical&count_private=true) ![GitHub Streak](https://streak-stats.demolab.com/?user=Raul-Germano-Rosendo&theme=radical&hide_border=false)  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Germano-Rosendo&layout=compact&theme=radical)  
 
