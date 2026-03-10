@@ -1,7 +1,8 @@
 <h1 align="center">Olá, mundo!</h1>
 
 <p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FATEC - São José dos Campos</strong> (3º semestre).<br/>
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FATEC - São José dos Campos</strong> (4º semestre).<br/>
+  👨‍🏫 Estagiário no <strong>GAMT</strong> - desenvolvendo competências em programação, modelagem 2D & 3D, aprendizagem criativa e Pedagogia na TI. 
 </p>
 
 <div align="center">
@@ -16,7 +17,8 @@
 
 - 📚 Atualmente aprendendo **Python** (Prof. Masanori), **Java** (Prof. Juliana) e **JavaScript/Node.js/TypeScript** (Prof. Gerson).  
 - 💡 Buscando oportunidades para aplicar meus conhecimentos em **projetos reais**.  
-- 🔍 Curioso, resiliente e sempre disposto a aprender algo novo.  
+- 🔍 Curioso, resiliente e sempre disposto a aprender algo novo.
+- ♨️ Atualmente estagiando no GAMT(Grupo de Assessoria e Mobilização de Talentos). 🕑 Das 14:00 ás 18:00.  
 - 💼 Última experiência: **Divino Amor** → manutenção de franquias via ERP’s e manipulação de banco de dados.  
 
 ---
