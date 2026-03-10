@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 
-- 📚 Atualmente aprendendo **Python** (Prof. Masanori), **Java** (Prof. Juliana) e **JavaScript/Node.js/TypeScript** (Prof. Gerson).  
+- 📚 Atualmente aprendendo **Sistemas Operacionais II (Linux)** (Prof. Gildárcio), **Engenharia de Software III** (Prof. Bertoti) e **Banco de dados** (Prof. Juliana).  
 - 💡 Buscando oportunidades para aplicar meus conhecimentos em **projetos reais**.  
 - 🔍 Curioso, resiliente e sempre disposto a aprender algo novo.
 - ♨️ Atualmente estagiando no GAMT(Grupo de Assessoria e Mobilização de Talentos). 🕑 Das 14:00 ás 18:00.  
@@ -51,7 +51,8 @@
 
 - ☁️ [Aplicativo de Clima (JavaScript + OpenWeather API)](https://github.com/Raul-Germano-Rosendo/Projects/tree/main/Weather%20APP)
 - 🎓 [Sistema de Gestão de Cursos e Alunos (Java + MySQL + JavaFX) — P2](https://github.com/Raul-Germano-Rosendo/FATEC-SJC-ADS/tree/main/SEGUNDO%20SEMESTRE/LP/GestaoCursos)  
-- 📂 [CRUD Clientes em Java (Maven)](https://github.com/Raul-Germano-Rosendo/FATEC-SJC-ADS/tree/main/SEGUNDO%20SEMESTRE/LP/CRUD-Clientes-Maven)  
+- 📂 [CRUD Clientes em Java (Maven)](https://github.com/Raul-Germano-Rosendo/FATEC-SJC-ADS/tree/main/SEGUNDO%20SEMESTRE/LP/CRUD-Clientes-Maven)
+- 🚴‍♂️ WIP - projeto que calcula gasto de caloria baseado no ritmo, peso da pessoa, kilometragem rodada.
 
 🛠️ *+ WIP projects... sempre atualizando!*  
 
