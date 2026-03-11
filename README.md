@@ -41,7 +41,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Germano-Rosendo&layout=compact&theme=radical)  
 
-[![trophy](https://trophy.ryglcloud.net/?username=Raul-Germano-Rosendo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=Raul-Germano-Rosendo&theme=juicyfresh)]
 
 </div>
 
