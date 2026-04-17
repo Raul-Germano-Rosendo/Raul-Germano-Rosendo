@@ -13,6 +13,10 @@
 
 ---
 
+<div style=" position: relative; width: 70%; max-width: 720px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.5); "> <img src="https://img.youtube.com/vi/QWCGVVvtNlg/maxresdefault.jpg" style="width:100%; display:block;"> <!-- Overlay escuro --> <div style=" position:absolute; top:0; left:0; width:100%; height:100%; background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.2)); "> <!-- Título --> <div style=" position:absolute; bottom:20px; left:20px; right:20px; "> <h2 style="margin:0; font-size:22px;">Quiz GAMT</h2> <p style="margin:4px 0 0; font-size:14px; opacity:0.8;"> Clique para assistir (eu passando vergonha)</p> </div> </div>
+
+
+---
 ### 🚀 Sobre mim
 
 - 📚 Atualmente aprendendo **Sistemas Operacionais II (Linux)** (Prof. Gildárcio), **Engenharia de Software III** (Prof. Bertoti) e **Banco de dados** (Prof. Juliana).  
